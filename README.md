@@ -1,2 +1,3 @@
 # DrumKit
-Interactive website - DOM example (HTML, CSS and Javascript)
+Interactive website - DOM example (HTML, CSS and Javascript)    
+https://ramonsevilha.github.io/DrumKit
